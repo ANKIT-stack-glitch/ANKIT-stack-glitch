@@ -25,11 +25,7 @@ I am a passionate **web developer** and an **explorer of the Web3 ecosystem**, c
 🚀 **[Web3 Projects Coming Soon](https://github.com/ANKIT-stack-glitch)** – Stay tuned for more exciting **Web3** and **Blockchain** projects in development!  
 
 ---
-
-## 📊 GitHub Stats  
-
-📈 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANKIT-stack-glitch&show_icons=true&theme=default)  
-🌍 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ANKIT-stack-glitch&layout=compact&theme=default)  
+ 
 
 ---
 
