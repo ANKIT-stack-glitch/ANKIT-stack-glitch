@@ -26,7 +26,7 @@ A simple, yet functional **JavaScript music player** with playlist support.
 ❌⭕ **[Tic Tac Toe](https://github.com/ANKIT-stack-glitch/TicTacToe-Game-JS)**  
 A classic **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaScript**.  
 
-🔍 **[Palindrome Checker](https://github.com/yourusername/palindrome-detector)**  
+🔍 **[Palindrome Checker](https://github.com/ANKIT-stack-glitch/palindrome-detector)**  
 A tool to check if a string is a **palindrome**.  
 
 🐉 **[DragonQuest RPG](https://github.com/yourusername/DragonQuest-RPG)**  
