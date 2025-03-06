@@ -20,7 +20,7 @@ I love solving problems, contributing to open-source projects, and staying up-to
 
 ## 🔥 Featured Projects  
 
-🎵 **[MelodyPlayer](https://github.com/yourusername/MelodyPlayer)**  
+🎵 **[MelodyPlayer](https://github.com/ANKIT-stack-glitch/MelodyPlayer)**  
 A simple, yet functional **JavaScript music player** with playlist support.  
 
 ❌⭕ **[Tic Tac Toe](https://github.com/yourusername/TicTacToe-Game-JS)**  
