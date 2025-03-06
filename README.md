@@ -32,7 +32,7 @@ A tool to check if a string is a **palindrome**.
 🐉 **[DragonQuest RPG](https://github.com/ANKIT-stack-glitch/DragonQuest-RPG)**  
 A **text-based RPG** where you fight monsters and face an epic dragon to save the town! Built with **HTML**, **CSS**, and **JavaScript**.  
 
-📆 **[Date Format Switcher](https://ankit-stack-glitch.github.io/date-format-switcher/)**  
+📆 **[Date Format Switcher](https://github.com/ANKIT-stack-glitch/date-format-switcher)**  
 A **JavaScript tool** that easily converts dates into different formats.  
 
 🚀 **[Web3 Projects Coming Soon](https://github.com/ANKIT-stack-glitch)**  
