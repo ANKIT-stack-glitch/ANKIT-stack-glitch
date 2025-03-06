@@ -29,7 +29,7 @@ A classic **Tic Tac Toe** game built with **HTML**, **CSS**, and **JavaScript**.
 🔍 **[Palindrome Checker](https://github.com/ANKIT-stack-glitch/palindrome-detector)**  
 A tool to check if a string is a **palindrome**.  
 
-🐉 **[DragonQuest RPG](https://github.com/yourusername/DragonQuest-RPG)**  
+🐉 **[DragonQuest RPG](https://github.com/ANKIT-stack-glitch/DragonQuest-RPG)**  
 A **text-based RPG** where you fight monsters and face an epic dragon to save the town! Built with **HTML**, **CSS**, and **JavaScript**.  
 
 📆 **[Date Format Switcher](https://ankit-stack-glitch.github.io/date-format-switcher/)**  
