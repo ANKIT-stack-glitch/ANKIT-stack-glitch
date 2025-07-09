@@ -1,4 +1,4 @@
-# 🚀 Ankit Poudyal  
+#  Ankit Poudyal  
 
 ### 🖥️ Web Developer | 🔗 Blockchain & Web3 Enthusiast | 🌍 Tech Explorer  
 
@@ -45,13 +45,6 @@ I enjoy solving complex problems, contributing to open-source, and staying ahead
 
 ---
 
-## 🚀 My Goals for 2025
-
-- **Contribute to open-source projects**  
-- **Build and deploy my first DApp**  
-- **Improve React.js and Full-Stack skills**  
-- **Gain expertise in Ethereum Smart Contracts**  
-
 
 ---
 ## 📚 Learning & Exploring  
@@ -68,7 +61,7 @@ I enjoy solving complex problems, contributing to open-source, and staying ahead
 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-poudyal-939303240/)  
 📧 **Email:** [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:poudyalankit25@gmail.com)  
 💻 **GitHub:** [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ANKIT-stack-glitch)  
-🌐 **Portfolio:** _Coming Soon_ 🌟  
+
 
 
 
