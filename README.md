@@ -1,8 +1,8 @@
 #  Ankit Poudyal  
 
-### 🖥️ Web Developer | 🔗 Blockchain & Web3 Enthusiast | 🌍 Tech Explorer  
+### 🖥️ Web Developer | 🔗 Networking & Cybersecurity Enthusiast | 🌍 Tech Explorer  
 
-I am a passionate **Web Developer** and **Blockchain** enthusiast, exploring the world of **Smart Contracts** and **Decentralized Applications**. With a solid foundation in **web development**, my focus is on building **interactive, scalable, and efficient solutions** that push technological boundaries.  
+I am a passionate Web Developer and Networking & Cybersecurity enthusiast, exploring the world of network infrastructure, cyber threat prevention, and secure systems design. With a solid foundation in web development, my focus is on building interactive, scalable, and secure solutions that push technological boundaries.
 
 I enjoy solving complex problems, contributing to open-source, and staying ahead of emerging tech trends. My goal is to create innovative applications that drive impact and make a difference.  
   
@@ -14,7 +14,7 @@ I enjoy solving complex problems, contributing to open-source, and staying ahead
 
 🔹 **Languages:** JavaScript, C, C++, Python  
 🔹 **Web Development:** HTML, CSS, JavaScript (ES6+)  
-🔹 **Blockchain & Web3:** Solidity, Ethereum (Learning Phase)  
+🔹 **Networking & Cybersecurity:** Network Fundamentals, Security Protocols, Ethical Hacking (Learning Phase)  
 🔹 **Databases:** MySQL, PostgreSQL  
 🔹 **Tools:** Git, GitHub, Figma, Canva, VS Code, Docker  
 
@@ -51,7 +51,7 @@ I enjoy solving complex problems, contributing to open-source, and staying ahead
 
 - **Frontend Development:** React.js, Tailwind CSS  
 - **Backend Development:** Node.js, Express.js  
-- **Web3 & Blockchain:** Smart Contracts (Solidity), Ethereum Development  
+- **Networking & Cybersecurity:** Network Design, Security Protocols, Ethical Hacking  
 - **DevOps & Cloud:** Docker, CI/CD, Cloud Computing  
 
 ---
